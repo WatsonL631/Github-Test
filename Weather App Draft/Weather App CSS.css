@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.units {
+  text-align: center;
+  display: block;
+}
+.temperature {
+  text-align: center;
+  display: block;
+}
+
+.search-form {
+  text-align: center;
+  padding-top: 40px;
+}
+.container {
+  font-family: "Comfortaa", cursive;
+  padding-top: 50px;
+  text-align: center;
+}
